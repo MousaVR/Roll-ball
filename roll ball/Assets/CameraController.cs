@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour {
     public GameObject player;
-    Vector3 offset;
-	// Use this for initialization
+    Vector3 offset;//offset between camera and ball
+
+
 	void Start () {
         offset = transform.position - player.transform.position;
 	}
