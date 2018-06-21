@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: d3226c8f4f447a444b8dc1a268d587c2
+  productGUID: bf47de05fec7531408a1c8ef3925d9e3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: roll ball
+  productName: Roll a Ball
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -557,14 +557,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: roll ball
+  metroPackageName: Roll a Ball
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: roll ball
+  metroApplicationDescription: Roll a Ball
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -633,8 +633,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: ad2cad18-c61f-4553-9af7-753286bb56fa
-  projectName: roll ball
+  cloudProjectId: f37f489f-27aa-4bf0-b166-785f81f7a5df
+  projectName: Roll a Ball
   organizationId: mahmoud_mousa
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
